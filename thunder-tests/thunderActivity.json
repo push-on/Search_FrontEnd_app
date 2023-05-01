@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "0ecdae8e-126b-4cdf-98d6-6d2e1411dcab",
+    "colId": "history",
+    "containerId": "",
+    "name": "https://bing-web-search1.p.rapidapi.com/search",
+    "url": "https://bing-web-search1.p.rapidapi.com/search",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-02-11T04:57:34.250Z",
+    "modified": "2023-02-11T04:58:18.174Z",
+    "headers": [
+      {
+        "name": "X-Bingapis-Sdk",
+        "value": "true"
+      },
+      {
+        "name": "X-Rapidapi-Key",
+        "value": "44aed2df67mshad4428dbd67b312p15ff4cjsn2870ce60fc6f"
+      },
+      {
+        "name": "X-Rapidapi-Host",
+        "value": "bing-web-search1.p.rapidapi.com"
+      },
+      {
+        "name": "Host",
+        "value": "bing-web-search1.p.rapidapi.com"
+      },
+      {
+        "name": "Accept",
+        "value": "*/*",
+        "isDisabled": true
+      },
+      {
+        "name": "User-Agent",
+        "value": "Thunder Client (https://www.thunderclient.com)",
+        "isDisabled": true
+      }
+    ],
+    "params": [],
+    "tests": []
+  }
+]
